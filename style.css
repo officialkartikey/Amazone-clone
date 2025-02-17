@@ -4,10 +4,15 @@
     border:border-box;
 }
 .navbar{
-    width: 100%;
-
-    
+    width: 60x;
     background-color: #0f1111;
-
    color:  white;
+}
+.logo{
+    width:100px;
+    heigth:50px;
+}
+.nav-logo{
+    background image:url("amazon_logo.png");
+    height:50px;
 }
