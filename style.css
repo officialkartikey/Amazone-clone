@@ -67,6 +67,7 @@
     width:100%;
     border: none;
     font-size:1rem;
+    border:0.5px solid white;
 }
 .nav_search:hover{
     border:2px solid  orange;
